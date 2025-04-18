@@ -2,7 +2,7 @@
 <h3 align="center">WordPress Developer | Aspiring Full Stack Engineer | Graphic Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mandhojthing&label=Profile%20Views&color=0e75b6&style=flat" alt="mandhojthing" />
+  <img src="https://komarev.com/ghpvc/?username=MandhojTheeng&label=Profile%20Views&color=0e75b6&style=flat" alt="MandhojTheeng" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🔭 Currently working as a **WordPress Developer**
 - 🌱 Learning Full Stack Development: `Node.js`, `Express`, `PostgreSQL`, `React`, `Next.js`, `Golang`
 - 🎨 Also skilled in **Graphic Design**, UI/UX, and Web Branding
-- 👨‍🎓 BSc. Hons in Computer Science – Herald College
+- 👨‍🎓 BSc. Hons in Computer Science – Kanjirowa College
 - 📍 Based in **Koteshwor, Nepal**
 - 💡 Embracing a **growth mindset** — learning something new every day
 - 🚀 On a mission to become a **complete full-stack engineer in 1 year**
@@ -36,32 +36,41 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandhojthing&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandhojthing&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MandhojTheeng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandhojTheeng&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandhojTheeng&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🏆 Currently Working On
+### 🏗️ Projects I'm Working On
 
-- Building real-world full-stack apps using **React + Node.js**
-- Learning and applying **Go (Golang)** for backend development
-- Customizing **WooCommerce & WordPress themes**
-- SEO, page speed, and performance optimization
+- Full-stack apps using **React + Node.js**
+- Backend APIs with **Express**, **PostgreSQL**, and **Django**
+- WooCommerce customization & theme development
+- **SEO** & performance optimization
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 https://www.linkedin.com/in/mandhoj-theeng-535269343/
-- 📧 Email: theengmandhoj@gmail.com
+- 🌐 Portfolio: *coming soon*
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile) *(replace this link)*
+- 📧 Email: `your.email@example.com` *(replace this too)*
+
 ---
 
 ### ✨ Fun Fact
+
 > “Consistency beats intensity — one step at a time makes the journey count.”
 
 ---
-
