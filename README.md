@@ -74,3 +74,5 @@
 > “Consistency beats intensity — one step at a time makes the journey count.”
 
 ---
+![GitHub Snake Animation](https://raw.githubusercontent.com/MandhojTheeng/MandhojTheeng/output/github-contribution-grid-snake.svg)
+
