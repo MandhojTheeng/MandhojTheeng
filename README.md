@@ -56,10 +56,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace this with your actual profile)*
-- 🌐 [Portfolio](https://your-portfolio.com) *(If you have one)*
-- 📧 Email: `mandhojthing@example.com` *(Replace this with a real one if you want)*
-
+- 💼 https://www.linkedin.com/in/mandhoj-theeng-535269343/
+- 📧 Email: theengmandhoj@gmail.com
 ---
 
 ### ✨ Fun Fact
