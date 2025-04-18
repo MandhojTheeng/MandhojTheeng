@@ -16,7 +16,7 @@
 - 🔭 Currently working as a **WordPress Developer**
 - 🌱 Learning Full Stack Development: `Node.js`, `Express`, `PostgreSQL`, `React`, `Next.js`, `Golang`
 - 🎨 Also skilled in **Graphic Design**, UI/UX, and Web Branding
-- 👨‍🎓 BSc. Hons in Computer Science – Kanjirowa College
+- 👨‍🎓 BSc. Hons in Computer Science – Herald College
 - 📍 Based in **Koteshwor, Nepal**
 - 💡 Embracing a **growth mindset** — learning something new every day
 - 🚀 On a mission to become a **complete full-stack engineer in 1 year**
@@ -64,21 +64,13 @@
 
 ---
 
-### 🧩 2025 Goals
 
-- ✅ Become a full-stack engineer (MERN/Django/Laravel)
-- ✅ Launch my personal portfolio website
-- ⏳ Contribute to open source regularly
-- ⏳ Start a tech blog or YouTube channel
-- ⏳ Build a SaaS product 🚀
-
----
 
 ### 📫 Let's Connect
 
 - 🌐 Portfolio: *coming soon*
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 📧 Email: `your.email@example.com`
+- 💼 LinkedIn: https://www.linkedin.com/in/mandhoj-theeng-535269343/
+- 📧 Email: theengmandhoj@gmail.com
 
 ---
 
