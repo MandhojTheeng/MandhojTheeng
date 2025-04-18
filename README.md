@@ -27,15 +27,31 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
+<h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MandhojTheeng&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandhojTheeng&theme=radical" height="165"/>
+  <a href="https://github.com/MandhojTheeng">
+    <img src="https://github-readme-stats.vercel.app/api?username=MandhojTheeng&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117" height="180px"/>
+  </a>
+  <a href="https://github.com/MandhojTheeng">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandhojTheeng&theme=react&hide_border=true&background=0D1117" height="180px"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandhojTheeng&layout=compact&theme=radical" />
+  <a href="https://github.com/MandhojTheeng">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandhojTheeng&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MandhojTheeng&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -58,7 +74,7 @@
 
 ---
 
-### 🐍 Contribution Snake Game
+### 🐍 GitHub Snake Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MandhojTheeng/MandhojTheeng/output/github-contribution-grid-snake.svg" alt="snake animation" />
