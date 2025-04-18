@@ -74,5 +74,5 @@
 
 ---
 
-✨ Fun Quote
+✨ Quote 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Consistency+%3E+Intensity;Small+steps+lead+to+great+destinations;&center=true&width=500&height=45&color=0FF9C0&vCenter=true&size=22" alt="Typing SVG" /> <br/> <blockquote> <p><em> 🌱 Success isn’t built in a day — it's crafted through <strong>quiet persistence</strong>,<br/> daily learning, and the <strong>courage to show up</strong> even when no one's watching. </em></p> <p><strong>— Mandhoj Thing</strong></p> </blockquote> </div>
