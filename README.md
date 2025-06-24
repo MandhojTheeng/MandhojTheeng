@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandhoj Thing</h1>
-<h3 align="center">WordPress Developer | Aspiring Full Stack Engineer | Graphic Designer</h3>
+<h3 align="center">WordPress Developer | Graphic Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste!+I'm+Mandhoj+Thing;WordPress+Developer;Full+Stack+Learner;Creative+Thinker;&center=true&width=500&height=45&color=00FFCC&vCenter=true&size=22">
