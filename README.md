@@ -40,6 +40,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MandhojTheeng/MandhojTheeng/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 - 🌐 Portfolio: *coming soon*
