@@ -40,32 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MandhojTheeng&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=20&hide_border=true" width="48%" alt="Mandhoj's GitHub stats" />
-
-  <img src="https://streak-stats.demolab.com?user=MandhojTheeng&theme=radical&border_radius=20&hide_border=true" width="48%" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandhojTheeng&layout=donut&langs_count=6&theme=radical&border_radius=20&hide_border=true" width="48%" alt="Top Languages" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=MandhojTheeng&theme=dracula&margin-w=15&no-bg=true&no-frame=true" width="90%" alt="Trophies" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MandhojTheeng/MandhojTheeng/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-
-
 ### 📫 Let's Connect
 
 - 🌐 Portfolio: *coming soon*
@@ -74,5 +48,12 @@
 
 ---
 
-✨ Quote 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Consistency+%3E+Intensity;Small+steps+lead+to+great+destinations;&center=true&width=500&height=45&color=0FF9C0&vCenter=true&size=22" alt="Typing SVG" /> <br/> <blockquote> <p><em> 🌱 Success isn’t built in a day — it's crafted through <strong>quiet persistence</strong>,<br/> daily learning, and the <strong>courage to show up</strong> even when no one's watching. </em></p> <p><strong>— Mandhoj Thing</strong></p> </blockquote> </div>
+✨ Quote  
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Consistency+%3E+Intensity;Small+steps+lead+to+great+destinations;&center=true&width=500&height=45&color=0FF9C0&vCenter=true&size=22" alt="Typing SVG" /> 
+  <br/> 
+  <blockquote> 
+    <p><em> 🌱 Success isn’t built in a day — it's crafted through <strong>quiet persistence</strong>,<br/> daily learning, and the <strong>courage to show up</strong> even when no one's watching. </em></p> 
+    <p><strong>— Mandhoj Thing</strong></p> 
+  </blockquote> 
+</div>
