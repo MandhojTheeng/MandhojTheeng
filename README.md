@@ -13,13 +13,34 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working as a **WordPress Developer**
-- 🌱 Learning Full Stack Development: `Node.js`, `Express`, `PostgreSQL`, `React`, `Next.js`, `Golang`
-- 🎨 Also skilled in **Graphic Design**, UI/UX, and Web Branding
-- 👨‍🎓 BSc. Hons in Computer Science – Herald College
-- 📍 Based in **Koteshwor, Nepal**
-- 💡 Embracing a **growth mindset** — learning something new every day
-- 🚀 On a mission to become a **complete full-stack engineer in 1 year**
+- I'm currently working as a WordPress Developer  
+- Passionate about learning full stack development — diving into `Node.js`, `Express`, `PostgreSQL`, `React`, `Next.js`, and `Golang`  
+- I also have a background in graphic design, UI/UX, and web branding  
+- Graduated with a BSc. Hons in Computer Science from Herald College  
+- Based in Koteshwor, Nepal  
+- I believe in lifelong learning and self-discipline  
+- My goal is to become a complete full-stack engineer within 1 year  
+
+---
+
+### ✨ What I Believe In
+
+> 💡 Simplicity over complexity  
+> 🚀 Action over perfection  
+> 🎯 Growth over comparison  
+> 🔁 Consistency beats intensity  
+> 👣 Every line of code is a step toward mastery  
+
+---
+
+### 🎯 Goals for 2025
+
+- Launch my personal portfolio site with blog, projects, and case studies  
+- Build and deploy 5+ full-stack applications  
+- Contribute to at least 3 open-source projects  
+- Learn and implement system design fundamentals  
+- Start writing technical content to share knowledge  
+- Help beginners in the tech community  
 
 ---
 
@@ -51,17 +72,19 @@
 ### 📫 Let's Connect
 
 - 🌐 Portfolio: *coming soon*
-- 💼 LinkedIn: https://www.linkedin.com/in/mandhoj-theeng-535269343/
+- 💼 LinkedIn: [mandhoj-theeng-535269343](https://www.linkedin.com/in/mandhoj-theeng-535269343/)
 - 📧 Email: theengmandhoj@gmail.com
 
 ---
 
-✨ Quote  
+### ✨ Quote
+
 <div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Consistency+%3E+Intensity;Small+steps+lead+to+great+destinations;&center=true&width=500&height=45&color=0FF9C0&vCenter=true&size=22" alt="Typing SVG" /> 
   <br/> 
   <blockquote> 
-    <p><em> 🌱 Success isn’t built in a day — it's crafted through <strong>quiet persistence</strong>,<br/> daily learning, and the <strong>courage to show up</strong> even when no one's watching. </em></p> 
+    <p><em> 🌱 Success isn’t built in a day — it's crafted through quiet persistence,  
+    daily learning, and the courage to show up even when no one's watching. </em></p> 
     <p><strong>— Mandhoj Thing</strong></p> 
   </blockquote> 
 </div>
