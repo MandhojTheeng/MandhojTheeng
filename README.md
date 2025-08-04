@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandhoj Thing</h1>
-<h3 align="center">WordPress Developer | Full Stack Developer</h3>
+<h3 align="center">WordPress Developer | Full Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste!+I'm+Mandhoj+Thing;WordPress+Developer;Full+Stack+Learner;Creative+Thinker;&center=true&width=500&height=45&color=00FFCC&vCenter=true&size=22">
@@ -13,34 +13,24 @@
 
 ### 🧑‍💻 About Me
 
-- I'm currently working as a WordPress Developer  
-- Passionate about learning full stack development — diving into `Node.js`, `Express`, `PostgreSQL`, `React`, `Next.js`, and `Golang`  
-- I also have a background in graphic design, UI/UX, and web branding  
-- Graduated with a BSc. Hons in Computer Science from Herald College  
-- Based in Koteshwor, Nepal  
-- I believe in lifelong learning and self-discipline  
-- My goal is to become a complete full-stack engineer within 1 year  
+- I’m currently working as a WordPress developer with a growing interest in scalable full-stack solutions  
+- Actively sharpening skills in backend engineering with Node.js, Laravel, Django, and PostgreSQL  
+- Experienced in building clean, user-friendly UIs with React, Next.js, and Tailwind CSS  
+- I also bring a creative edge with a background in graphic design and UI/UX  
+- Educated with a BSc. Hons in Computer Science from Herald College  
+- Based in Koteshwor, Nepal — collaborating globally and delivering locally  
+- Focused on building high-quality, production-ready systems with clarity and discipline  
 
 ---
 
-### ✨ What I Believe In
+### 🔍 Areas of Focus
 
-> 💡 Simplicity over complexity  
-> 🚀 Action over perfection  
-> 🎯 Growth over comparison  
-> 🔁 Consistency beats intensity  
-> 👣 Every line of code is a step toward mastery  
-
----
-
-### 🎯 Goals for 2025
-
-- Launch my personal portfolio site with blog, projects, and case studies  
-- Build and deploy 5+ full-stack applications  
-- Contribute to at least 3 open-source projects  
-- Learn and implement system design fundamentals  
-- Start writing technical content to share knowledge  
-- Help beginners in the tech community  
+- Building performant, maintainable full-stack applications  
+- Creating custom WordPress themes and plugins tailored to business goals  
+- API design and integration  
+- Clean architecture and database optimization  
+- Modern UI/UX design principles  
+- Developer experience and tooling  
 
 ---
 
@@ -83,8 +73,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Consistency+%3E+Intensity;Small+steps+lead+to+great+destinations;&center=true&width=500&height=45&color=0FF9C0&vCenter=true&size=22" alt="Typing SVG" /> 
   <br/> 
   <blockquote> 
-    <p><em> 🌱 Success isn’t built in a day — it's crafted through quiet persistence,  
-    daily learning, and the courage to show up even when no one's watching. </em></p> 
+    <p><em> Craftsmanship isn't loud. It's in the quiet commitment to quality, learning, and showing up with purpose every day. </em></p> 
     <p><strong>— Mandhoj Thing</strong></p> 
   </blockquote> 
 </div>
